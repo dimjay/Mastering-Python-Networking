@@ -13,6 +13,7 @@ Chapter 12 does not have any code files.
 
 The code will look like the following:
 ```
+Just ADDING SOMETHINGS TO README.md
 # This is a comment
 print("hello world")
 ```
